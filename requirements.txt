@@ -1,0 +1,9 @@
+Django
+torch
+torchvision
+torchaudio
+numpy
+pandas
+scikit-learn
+python-decouple
+django-environ

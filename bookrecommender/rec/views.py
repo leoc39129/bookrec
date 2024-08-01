@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from .models import CustomUser, Book, UserBookRating
+from .models import CustomUser, Movie, UserMovieRating
 from .train import prep_data, train_model, recommend_books
 
 # Create your views here.

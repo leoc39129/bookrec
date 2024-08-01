@@ -15,3 +15,8 @@ bookrecommender/rec/migrations
 # .env
 bookrecommender/bookrecommender/.env
 
+# datasets
+*.csv
+
+# Others
+.DS_Store
